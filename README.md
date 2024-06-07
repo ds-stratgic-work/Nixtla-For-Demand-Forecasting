@@ -1,6 +1,7 @@
 # Understanding-Nixtla-For-Forecasting
 
-## The purpose :StatsForecast provides a variety of popular univariate time series forecasting models, such as automatic ARIMA, ETS, CES, and Theta modeling, all optimized for superior performance through the use of numba. Additionally, it offers a comprehensive set of benchmarking models.
+## The purpose :
+StatsForecast provides a variety of popular univariate time series forecasting models, such as automatic ARIMA, ETS, CES, and Theta modeling, all optimized for superior performance through the use of numba. Additionally, it offers a comprehensive set of benchmarking models.
 
 ## Installation
 !pip install statsforecast
