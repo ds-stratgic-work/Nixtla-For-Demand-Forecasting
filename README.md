@@ -18,3 +18,11 @@ Utilizing the statsforecast library,
 
 ## Technology
  Python
+
+
+### References:
+https://pub.towardsai.net/introduction-to-nixtla-for-demand-forecasting-2b97ab5e0854
+https://nixtlaverse.nixtla.io/statsforecast/docs/tutorials/statisticalneuralmethods.html
+https://github.com/robjhyndman/M4metalearning/blob/master/docs/M4_methodology.html#features
+https://nixtlaverse.nixtla.io/mlforecast/index.html
+
